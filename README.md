@@ -1,6 +1,6 @@
 # Hello 🤗
 
-Wunderful meeting here on my page. I'm Siggi. 😊
+I'm Siggi. Wonderful meeting you here on my page. 😊
 
 - 🌏 I was born somewhere in Siberia. And grew up in Bavaria. 
 - 📚 Studied Economics & Business Administrations.
