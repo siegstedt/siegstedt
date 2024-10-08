@@ -1,0 +1,6 @@
+baseURL: https://siegstedt.com/
+languageCode: en-us
+title: siegstedt
+module:
+  imports:
+    - path: github.com/imfing/hextra
